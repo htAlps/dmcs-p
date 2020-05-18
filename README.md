@@ -1,2 +1,2 @@
-# dmcs-p
+# dmcsp
 Distributed Minimal Composable Superposition π-System
