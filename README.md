@@ -1,2 +1,2 @@
 # dmcsp
-Distributed Minimal Composable Superposition π-System
+Distributed Minimal Composable Superpositioned π-System
